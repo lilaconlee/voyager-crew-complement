@@ -1,1346 +1,1346 @@
 [
   {
-    "Title": "Caretaker",
-    "Crew Count": 154,
-    "Non-death Losses": 0,
-    "Gains": "Kes, Nelix, unspecified Maquis",
-    "Deaths": "Cavit, Stadi, 6 unidentified maybe more",
-    "Notes": 0
-  },
-  {
-    "Title": "Parallax",
-    "Crew Count": 154,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Time and Again",
-    "Crew Count": 154,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Phage",
-    "Crew Count": 154,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "The Cloud",
-    "Crew Count": 154,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Eye of the Needle",
-    "Crew Count": 154,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Ex Post Facto",
-    "Crew Count": 154,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Emanations",
-    "Crew Count": 154,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Prime Factors",
-    "Crew Count": 154,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "State of Flux",
-    "Crew Count": 153,
-    "Non-death Losses": "Seska",
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Heroes and Demons",
-    "Crew Count": 153,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Cathexis",
-    "Crew Count": 153,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Faces",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "Peter Durst",
-    "Notes": 0
+    "title": "Caretaker",
+    "count": 154,
+    "non-death": 0,
+    "gain": "Kes, Nelix, unspecified Maquis",
+    "death": "Cavit, Stadi, 6 unidentified maybe more",
+    "notes": 0
+  },
+  {
+    "title": "Parallax",
+    "count": 154,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Time and Again",
+    "count": 154,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Phage",
+    "count": 154,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "The Cloud",
+    "count": 154,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Eye of the Needle",
+    "count": 154,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Ex Post Facto",
+    "count": 154,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Emanations",
+    "count": 154,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Prime Factors",
+    "count": 154,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "State of Flux",
+    "count": 153,
+    "non-death": "Seska",
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Heroes and Demons",
+    "count": 153,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Cathexis",
+    "count": 153,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Faces",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": "Peter Durst",
+    "notes": 0
   },
   {
-    "Title": "Jetrel",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Jetrel",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Learning Curve",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Learning Curve",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "The 37's",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The 37's",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Initiations",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Initiations",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Projections",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Projections",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Elogium",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Elogium",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Non Sequitur",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Non Sequitur",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Twisted",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Twisted",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Parturition",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Parturition",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Persistence of Vision",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Persistence of Vision",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Tattoo",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Tattoo",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Cold Fire",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Cold Fire",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Maneuvers",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Maneuvers",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Resistance",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Resistance",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Prototype",
-    "Crew Count": 152,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Prototype",
+    "count": 152,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Alliances",
-    "Crew Count": 149,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "Bendera, two unidentified",
-    "Notes": 0
+    "title": "Alliances",
+    "count": 149,
+    "non-death": 0,
+    "gain": 0,
+    "death": "Bendera, two unidentified",
+    "notes": 0
   },
   {
-    "Title": "Threshold",
-    "Crew Count": 149,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Threshold",
+    "count": 149,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Meld",
-    "Crew Count": 148,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "Frank Darwin",
-    "Notes": 0
+    "title": "Meld",
+    "count": 148,
+    "non-death": 0,
+    "gain": 0,
+    "death": "Frank Darwin",
+    "notes": 0
   },
   {
-    "Title": "Dreadnought",
-    "Crew Count": 148,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Dreadnought",
+    "count": 148,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Death Wish",
-    "Crew Count": 148,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Death Wish",
+    "count": 148,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Lifesigns",
-    "Crew Count": 148,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Lifesigns",
+    "count": 148,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Investigations",
-    "Crew Count": 147,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "Michael Jonas",
-    "Notes": 0
+    "title": "Investigations",
+    "count": 147,
+    "non-death": 0,
+    "gain": 0,
+    "death": "Michael Jonas",
+    "notes": 0
   },
   {
-    "Title": "Deadlock",
-    "Crew Count": 148,
-    "Non-death Losses": 0,
-    "Gains": "Naomi Wildman",
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Deadlock",
+    "count": 148,
+    "non-death": 0,
+    "gain": "Naomi Wildman",
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Innocence",
-    "Crew Count": 147,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "Bennet",
-    "Notes": 0
+    "title": "Innocence",
+    "count": 147,
+    "non-death": 0,
+    "gain": 0,
+    "death": "Bennet",
+    "notes": 0
   },
   {
-    "Title": "The Thaw",
-    "Crew Count": 147,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The Thaw",
+    "count": 147,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Tuvix",
-    "Crew Count": 147,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Tuvix",
+    "count": 147,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Resolutions",
-    "Crew Count": 147,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Resolutions",
+    "count": 147,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Basics, Part I",
-    "Crew Count": 145,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "2 unidentified",
-    "Notes": 0
+    "title": "Basics, Part I",
+    "count": 145,
+    "non-death": 0,
+    "gain": 0,
+    "death": "2 unidentified",
+    "notes": 0
   },
   {
-    "Title": "Basics, Part II",
-    "Crew Count": 142,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "Hogan, Lon Suder 1 unidentified",
-    "Notes": 0
+    "title": "Basics, Part II",
+    "count": 142,
+    "non-death": 0,
+    "gain": 0,
+    "death": "Hogan, Lon Suder 1 unidentified",
+    "notes": 0
   },
   {
-    "Title": "Flashback",
-    "Crew Count": 142,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Flashback",
+    "count": 142,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "The Chute",
-    "Crew Count": 142,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The Chute",
+    "count": 142,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "The Swarm",
-    "Crew Count": 141,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "1 unidentified",
-    "Notes": 0
+    "title": "The Swarm",
+    "count": 141,
+    "non-death": 0,
+    "gain": 0,
+    "death": "1 unidentified",
+    "notes": 0
   },
   {
-    "Title": "False Profits",
-    "Crew Count": 141,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "False Profits",
+    "count": 141,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Remember",
-    "Crew Count": 141,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Remember",
+    "count": 141,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Sacred Ground",
-    "Crew Count": 141,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Sacred Ground",
+    "count": 141,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Future's End, Part I",
-    "Crew Count": 141,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Future's End, Part I",
+    "count": 141,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Future's End, Part II",
-    "Crew Count": 141,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Future's End, Part II",
+    "count": 141,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Warlord",
-    "Crew Count": 140,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "Martin",
-    "Notes": 0
+    "title": "Warlord",
+    "count": 140,
+    "non-death": 0,
+    "gain": 0,
+    "death": "Martin",
+    "notes": 0
   },
   {
-    "Title": "The Q and the Grey",
-    "Crew Count": 140,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The Q and the Grey",
+    "count": 140,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Macrocosm",
-    "Crew Count": 140,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Macrocosm",
+    "count": 140,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Fair Trade",
-    "Crew Count": 140,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Fair Trade",
+    "count": 140,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Alter Ego",
-    "Crew Count": 140,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Alter Ego",
+    "count": 140,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Coda",
-    "Crew Count": 140,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Coda",
+    "count": 140,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Blood Fever",
-    "Crew Count": 140,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Blood Fever",
+    "count": 140,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Unity",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "Marie Kaplan",
-    "Notes": 0
+    "title": "Unity",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": "Marie Kaplan",
+    "notes": 0
   },
   {
-    "Title": "Darkling",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Darkling",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Rise",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Rise",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Favorite Son",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Favorite Son",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Before and After",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Before and After",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Real Life",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Real Life",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Distant Origin",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Distant Origin",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Displaced",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Displaced",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Worst Case Scenario",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Worst Case Scenario",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Scorpion, Part I",
-    "Crew Count": 140,
-    "Non-death Losses": 0,
-    "Gains": "Seven of Nine",
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Scorpion, Part I",
+    "count": 140,
+    "non-death": 0,
+    "gain": "Seven of Nine",
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Scorpion, Part II",
-    "Crew Count": 140,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Scorpion, Part II",
+    "count": 140,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "The Gift",
-    "Crew Count": 139,
-    "Non-death Losses": "Kes",
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The Gift",
+    "count": 139,
+    "non-death": "Kes",
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Day of Honor",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Day of Honor",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Nemesis",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Nemesis",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Revulsion",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Revulsion",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "The Raven",
-    "Crew Count": 139,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The Raven",
+    "count": 139,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Scientific Method",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "1 unidentified",
-    "Notes": 0
+    "title": "Scientific Method",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": "1 unidentified",
+    "notes": 0
   },
   {
-    "Title": "Year of Hell, Part I",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Year of Hell, Part I",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Year of Hell, Part II",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Year of Hell, Part II",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Random Thoughts",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Random Thoughts",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Concerning Flight",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Concerning Flight",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Mortal Coil",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Mortal Coil",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Waking Moments",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Waking Moments",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Message in a Bottle",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Message in a Bottle",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Hunters",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Hunters",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Prey",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Prey",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Retrospect",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Retrospect",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "The Killing Game, Part I",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "at least 1 identified",
-    "Notes": 0
+    "title": "The Killing Game, Part I",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": "at least 1 identified",
+    "notes": 0
   },
   {
-    "Title": "The Killing Game, Part II",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The Killing Game, Part II",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Vis A Vis",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Vis A Vis",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "The Omega Directive",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The Omega Directive",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Unforgettable",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Unforgettable",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Living Witness",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "3 unidentified",
-    "Notes": 0
+    "title": "Living Witness",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": "3 unidentified",
+    "notes": 0
   },
   {
-    "Title": "Demon",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Demon",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "One",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "1 unidentified",
-    "Notes": 0
+    "title": "One",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": "1 unidentified",
+    "notes": 0
   },
   {
-    "Title": "Hope and Fear",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Hope and Fear",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Night",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Night",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Drone",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Drone",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Extreme Risk",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Extreme Risk",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "In the Flesh",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "In the Flesh",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Once Upon a Time",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Once Upon a Time",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Timeless",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Timeless",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Infinite Regress",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Infinite Regress",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Nothing Human",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Nothing Human",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Thirty Days",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Thirty Days",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Counterpoint",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Counterpoint",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Latent Image",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "Ahni Jetal",
-    "Notes": 0
+    "title": "Latent Image",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": "Ahni Jetal",
+    "notes": 0
   },
   {
-    "Title": "Bride of Chaotica!",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Bride of Chaotica!",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Gravity",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Gravity",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Bliss",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Bliss",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Dark Frontier",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Dark Frontier",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "The Disease",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The Disease",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Course: Oblivion",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Course: Oblivion",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "The Fight",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The Fight",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Think Tank",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Think Tank",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Juggernaut",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Juggernaut",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Someone to Watch Over Me",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Someone to Watch Over Me",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "11:59",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "11:59",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Relativity",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Relativity",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Warhead",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Warhead",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Equinox, Part I",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Equinox, Part I",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Equinox, Part II",
-    "Crew Count": 134,
-    "Non-death Losses": "Marla Gilmore, Noah Lessing, James Morrow, Brian Sofin, Angelo Tassoni",
-    "Gains": 0,
-    "Deaths": "3 unidentified",
-    "Notes": 0
+    "title": "Equinox, Part II",
+    "count": 134,
+    "non-death": "Marla Gilmore, Noah Lessing, James Morrow, Brian Sofin, Angelo Tassoni",
+    "gain": 0,
+    "death": "3 unidentified",
+    "notes": 0
   },
   {
-    "Title": "Survival Instinct",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": "Marika Wilkarah spends the time before her death on Voyager"
+    "title": "Survival Instinct",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": "Marika Wilkarah spends the time before her death on Voyager"
   },
   {
-    "Title": "Barge of the Dead",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Barge of the Dead",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Tinker Tenor Doctor Spy",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Tinker Tenor Doctor Spy",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Alice",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Alice",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Riddles",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Riddles",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Dragon's Teeth",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Dragon's Teeth",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "One Small Step",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "One Small Step",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "The Voyager Conspiracy",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The Voyager Conspiracy",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Pathfinder",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Pathfinder",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Fair Haven",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Fair Haven",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Blink of an Eye",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Blink of an Eye",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Virtuoso",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Virtuoso",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Memorial",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Memorial",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Tsunkatse",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Tsunkatse",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Collective",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": "Azan, Icheb, Mezoti, Rebi",
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Collective",
+    "count": 138,
+    "non-death": 0,
+    "gain": "Azan, Icheb, Mezoti, Rebi",
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Spirit Folk",
-    "Crew Count": 138,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Spirit Folk",
+    "count": 138,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Ashes to Ashes",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "Lyndsay Ballard",
-    "Notes": "Lyndsay Ballard is reanimated as  Jhet'leya"
+    "title": "Ashes to Ashes",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": "Lyndsay Ballard",
+    "notes": "Lyndsay Ballard is reanimated as  Jhet'leya"
   },
   {
-    "Title": "Child's Play",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Child's Play",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Good Shepherd",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Good Shepherd",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Live Fast and Prosper",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Live Fast and Prosper",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Muse",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Muse",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Fury",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Fury",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Life Line",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Life Line",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "The Haunting of Deck Twelve",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "The Haunting of Deck Twelve",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Unimatrix Zero, Part I",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Unimatrix Zero, Part I",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Unimatrix Zero, Part II",
-    "Crew Count": 137,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Unimatrix Zero, Part II",
+    "count": 137,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Imperfection",
-    "Crew Count": 134,
-    "Non-death Losses": "Azan, Mezoti, Rebi",
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Imperfection",
+    "count": 134,
+    "non-death": "Azan, Mezoti, Rebi",
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Drive",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Drive",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Repression",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Repression",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Critical Care",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Critical Care",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Inside Man",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Inside Man",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Body and Soul",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Body and Soul",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Nightingale",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Nightingale",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Flesh and Blood",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Flesh and Blood",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Shattered",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Shattered",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Lineage",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Lineage",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
   },
   {
-    "Title": "Repentance",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Prophecy",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "The Void",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Workforce, Part I",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Workforce, Part II",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Human Error",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Q2",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Author, Author",
-    "Crew Count": 134,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Friendship One",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": "Joe Carey",
-    "Notes": 0
-  },
-  {
-    "Title": "Natural Law",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Homestead",
-    "Crew Count": 132,
-    "Non-death Losses": "Neelix",
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Renaissance Man",
-    "Crew Count": 132,
-    "Non-death Losses": 0,
-    "Gains": 0,
-    "Deaths": 0,
-    "Notes": 0
-  },
-  {
-    "Title": "Endgame",
-    "Crew Count": 133,
-    "Non-death Losses": 0,
-    "Gains": "Miral Paris",
-    "Deaths": 0,
-    "Notes": 0
+    "title": "Repentance",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Prophecy",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "The Void",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Workforce, Part I",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Workforce, Part II",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Human Error",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Q2",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Author, Author",
+    "count": 134,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Friendship One",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": "Joe Carey",
+    "notes": 0
+  },
+  {
+    "title": "Natural Law",
+    "count": 133,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Homestead",
+    "count": 132,
+    "non-death": "Neelix",
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Renaissance Man",
+    "count": 132,
+    "non-death": 0,
+    "gain": 0,
+    "death": 0,
+    "notes": 0
+  },
+  {
+    "title": "Endgame",
+    "count": 133,
+    "non-death": 0,
+    "gain": "Miral Paris",
+    "death": 0,
+    "notes": 0
   }
 ]
